@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "widgets": [
+    {
+      "id": "orbit.weather",
+      "name": "Weather",
+      "author": "Orbit Team",
+      "version": "1.0.0",
+      "description": "A simple weather widget for Orbit.",
+      "category": "Weather",
+      "entryPoint": "WeatherWidget",
+      "icon": "weather",
+      "tags": [
+        "weather",
+        "forecast"
+      ]
+    }
+  ]
+}
