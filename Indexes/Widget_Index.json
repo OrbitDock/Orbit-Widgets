@@ -13,7 +13,9 @@
       "tags": [
         "weather",
         "forecast"
-      ]
+      ],
+      "packageFormat": "zip",
+      "downloadUrl": "https://github.com/orbitdock/Orbit-Widgets/raw/refs/heads/main/Widgets/Weather-v1.0.0.zip"
     }
   ]
 }
